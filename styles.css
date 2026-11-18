@@ -6,3 +6,23 @@ h1{
 /*#Potato{
     color: #92e0f7
 }*/
+
+/*BORDERS(table)*/
+table, th,td{
+    border:3px solid black; 
+    padding:15px;
+}
+
+tr:hover{
+    background-color: #91f0ff;
+}
+.asdf{
+    background-color: rgb(100, 148, 252);
+}
+.jkl{
+    background-color: rgb(159, 242, 255);
+}
+:hover{
+   background-color: rgb(50, 80, 144); 
+
+}
